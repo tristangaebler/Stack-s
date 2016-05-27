@@ -18,10 +18,12 @@ public class Dish
 	{
 		return isDirty;
 	}
+	
 	public Color color()
 	{
 		return color;
 	}
+	
 	public int radius()
 	{
 		return radius;
